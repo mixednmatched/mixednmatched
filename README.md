@@ -16,3 +16,5 @@
 <p align="center">
 $\color{#54B091}\text{read STRAW }\color{#3C6282}\text{or CARDD}\color{#54B091}\text{ for info b4 int'ing }$
 
+<p align="center">
+ $\color{#6FB054}\text{ Heavy Kick (cod-ghosts) kin/synpath, doubles iwc }$
