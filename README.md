@@ -3,10 +3,11 @@
 
 
 
+
 <p align="center"> 
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/0872a779-8b8b-460b-9042-a7c010ebb031" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0872a779-8b8b-460b-9042-a7c010ebb031" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/0872a779-8b8b-460b-9042-a7c010ebb031" 
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e7c637f4-3308-46d5-ac26-dd90f0fd8046" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/e7c637f4-3308-46d5-ac26-dd90f0fd8046" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/e7c637f4-3308-46d5-ac26-dd90f0fd8046" 
   </picture width="500">
 
 
