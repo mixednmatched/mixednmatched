@@ -12,7 +12,7 @@
 
 
 <p align="center">
- $\color{#6FB054}\text{ DEAFF or MACH }$
+ $\color{#6FB054}\text{ DEAFF/TONE or MACH }$
 <p align="center">
  $\color{#566B2E}\text{17yr}\color{#566B2E}\text{ | it , he[masc] }$
 <p align="center">
