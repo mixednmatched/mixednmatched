@@ -19,7 +19,7 @@
 $\color{#54B091}\text{read CARDD }\color{#3C6282}\text{or PRONOUNS.CC}\color{#54B091}\text{ for info b4 int'ing }$
 
 <p align="center">
- $\color{#6FB054}\text{ Heavy Kick (cod-ghosts) & Ghost (codmw) kin/synpath }$
+ $\color{#6FB054}\text{ Heavy Kick (cod-ghosts) and Ghost (codmw) kin/synpath }$
 
  <p align="center">
  $\color{#566B2E}\text{ back in school so a bit on edge }$
