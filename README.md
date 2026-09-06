@@ -5,10 +5,11 @@
 
 
 
+
 <p align="center"> 
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/eb0ec860-d64a-495d-b4de-475c3fa974ee" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/eb0ec860-d64a-495d-b4de-475c3fa974ee" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/eb0ec860-d64a-495d-b4de-475c3fa974ee" 
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6047ff17-d208-4112-9981-f1a1db96d084" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6047ff17-d208-4112-9981-f1a1db96d084" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/6047ff17-d208-4112-9981-f1a1db96d084" 
   </picture width="500">
 
 
